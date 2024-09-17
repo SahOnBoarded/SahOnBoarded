@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sah,
+- 👋 Hi, I’m Sahana, :woman:
 - 👀 I’m interested in autonomous systems and
 - 🌱 I’m currently learning on technologies underneath them.
 - 💞️ I’m looking to collaborate on any of the automotive related software dev projects.
