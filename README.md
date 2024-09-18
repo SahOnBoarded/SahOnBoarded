@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sahana, :woman:
-- 👀 I’m interested in autonomous systems and
-- 🌱 I’m currently learning on technologies underneath them.
-- 💞️ I’m looking to collaborate on any of the automotive related software dev projects.
+- :wave: Hi, I’m Sahana, :woman:
+- :books: I’m pursuing Masters in Computer Science at University of Stuttgart.
+- I am interested to colleberate on projects related to Computer Vision and Eye tracking or on Automotive embedded systems.
 - 📫 Reach to me on LinkedIn at https://www.linkedin.com/in/kmsahana/
 
 <!---
