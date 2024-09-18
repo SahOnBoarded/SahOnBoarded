@@ -1,8 +1,8 @@
 - :wave: Hi, I’m Sahana, :woman:
 - :books: I’m pursuing Masters in Computer Science at University of Stuttgart.
 - I am interested to colleberate on projects related to Computer Vision and Eye tracking or on Automotive embedded systems.
-- For further information and queries, please reach out to me
-- :envelope: on LinkedIn at https://www.linkedin.com/in/kmsahana/
+- For further information and queries, please reach out to me :envelope:
+ on LinkedIn at https://www.linkedin.com/in/kmsahana/
 
 <!---
 SahOnBoarded/SahOnBoarded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
