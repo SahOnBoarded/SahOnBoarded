@@ -1,10 +1,1 @@
-- :wave: Hi, I’m Sahana, :woman:
-- :books: I’m pursuing Masters in Computer Science at University of Stuttgart.
-- I am interested to colleberate on projects related to Automotive embedded systems.
-- For further information and queries, please reach out to me :envelope:
-- on LinkedIn at https://www.linkedin.com/in/kmsahana/ or via email at st188893@stud.uni-stuttgart.de
-
-<!---
-SahOnBoarded/SahOnBoarded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :wave: Hi
